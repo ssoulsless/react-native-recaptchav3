@@ -30,8 +30,6 @@
   "peerDependencies": {
     "react": "*",
     "react-native": "*"
+    "react-native-webview": "*"
   },
-  "dependencies": {
-    "react-native-webview": "^9.0.1"
-  }
 }
