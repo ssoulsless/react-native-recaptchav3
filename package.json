@@ -31,5 +31,5 @@
     "react": "*",
     "react-native": "*",
     "react-native-webview": "*"
-  },
+  }
 }
